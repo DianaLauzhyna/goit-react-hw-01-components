@@ -41,4 +41,5 @@ export default function TransactionHistory({ items }) {
 TransactionHistory.propTypes = {
   items: PropTypes.arrayOf.isRequired,
   items: PropTypes.element.isRequired,
+  
 };
